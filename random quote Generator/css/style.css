@@ -1,0 +1,17 @@
+.badge {
+    padding: 6px;
+}
+
+.card-header {
+    background-color: rgb(3, 63, 73);
+}
+
+.card-body {
+    border-bottom: 5px solid rgb(255, 60, 0);
+    /* background-color: rgb(8, 212, 235); */
+    background-image: url('../background.png');
+    width: auto;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: ;
+}
